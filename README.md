@@ -6,8 +6,10 @@ This repository curates online wolof text resources
 ### Literature ###
 
 <ul>
-  <li>Bataaxal bu gudde nii, Mariyaama Ba</li>
-  <li>Doomi golo, Bubakar Bόris Jόob</li>
+  <li>Bataaxal bu gudde nii (Une si longue lettre), Mariyaama Ba</li>
+  <li>Doomi golo (Le fils de la guenon), Bubakar Bόris Jόob</li>
+  <li>Goneg nit ku nuul gi (L'enfant noir), Camara Laye</li>
+  <li> Ndoomu Buur Si (Le petit prince), Antoine de Saint Exupery </li>
   <li>Bàmmeelu Kocc Barma, Buubakar Bóris Jóob</li>
   <li>Puukare, Ceerno Séydu Sàll</li>
   <li>Doxandéem, Ibraayima Saaxo Caam</li>
