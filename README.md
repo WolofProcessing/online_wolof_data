@@ -1,16 +1,17 @@
 # Monolingual Online Wolof Text Data #
 This repository curates online wolof text resources 
 
-## Wolof books ##
+## Wolof books ##
 
 ### Literature ###
 
-Bataaxal bu gudde nii, Mariyaama Ba
-Doomi golo, Bubakar Bόris Jόob
-Bàmmeelu Kocc Barma, Buubakar Bóris Jóob
-Puukare, Ceerno Séydu Sàll
-Doxandéem, Ibraayima Saaxo Caam
-
+<ul>
+  <li>Bataaxal bu gudde nii, Mariyaama Ba</li>
+  <li>Doomi golo, Bubakar Bόris Jόob</li>
+  <li>Bàmmeelu Kocc Barma, Buubakar Bóris Jóob</li>
+  <li>Puukare, Ceerno Séydu Sàll</li>
+  <li>Doxandéem, Ibraayima Saaxo Caam</li>
+</ul>
 
 ## Wolof web sites ##
 
