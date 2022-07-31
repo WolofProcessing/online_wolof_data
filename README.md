@@ -49,9 +49,9 @@ https://twitter.com/WaxWolof
 
 ### Keyword spotting datasets ###
 
- [Wolof, Pulaar, Serer, Mandinka, Diola, Soninke data](https://zenodo.org/record/4661645#.YuaAPNJBxNg)
+ [Zenodo African Languages (Wolof,Pulaar,Serere,Mandinka,Diola,Soninke) Dataset](https://zenodo.org/record/4661645#.YuaAPNJBxNg)
  
  ### Asyncronous Speech Recogntion (ASR) datasets ###
  
- [Baamtu wolof dataset ASR Challenge](https://zindi.africa/competitions/ai4d-baamtu-datamation-automatic-speech-recognition-in-wolof/data)
+ [Baamtu wolof ASR Challenge Dataset](https://zindi.africa/competitions/ai4d-baamtu-datamation-automatic-speech-recognition-in-wolof/data)
 
