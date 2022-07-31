@@ -31,7 +31,7 @@ This repository curates online wolof resources
 
 [biblewolof.com](http://biblewolof.com/) (Bible)
 
-[hewords.com](https://www.thewords.com/translations/wolof-part1.php)
+[thewords.com](https://www.thewords.com/translations/wolof-part1.php)
 
 [yoonunjub.org](https://yoonunjub.org/)
 
