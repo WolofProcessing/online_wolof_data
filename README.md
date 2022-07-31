@@ -25,11 +25,11 @@ This repository curates online wolof resources
 
 [wolof-online.com](https://www.wolof-online.com/)
 
-#### Bible in Wolof ####
+#### Religious content ####
 
-[sacred-texts.com](https://www.sacred-texts.com/bib/wb/wlf/index.htm)
+[sacred-texts.com](https://www.sacred-texts.com/bib/wb/wlf/index.htm) (Bible)
 
-[biblewolof.com](http://biblewolof.com/)
+[biblewolof.com](http://biblewolof.com/) (Bible)
 
 [yoonunjub.org](https://yoonunjub.org/)
 
