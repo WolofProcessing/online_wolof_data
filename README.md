@@ -31,6 +31,8 @@ This repository curates online wolof resources
 
 [biblewolof.com](http://biblewolof.com/)
 
+[www.jw.org/wo/](https://www.jw.org/wo/) (Jeovah website in Wolof)
+
 #### Wikipedia in Wolof ###
 
 [wo.wikipedia.org](https://wo.wikipedia.org/wiki/X%C3%ABt_wu_nj%C3%ABkk)
