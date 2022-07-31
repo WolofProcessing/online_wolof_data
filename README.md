@@ -21,29 +21,29 @@ This repository curates online wolof resources
 
 #### Online news ####
 
-https://www.defuwaxu.com/ 
+[defuwaxu.com](https://www.defuwaxu.com/) 
 
-https://www.wolof-online.com/
+[wolof-online.com](https://www.wolof-online.com/)
 
 #### Bible in Wolof ####
 
-https://www.sacred-texts.com/bib/wb/wlf/index.htm
+[sacred-texts.com](https://www.sacred-texts.com/bib/wb/wlf/index.htm)
 
-http://biblewolof.com/
+[biblewolof.com](http://biblewolof.com/)
 
 #### Wikipedia in Wolof ###
 
-https://wo.wikipedia.org/wiki/X%C3%ABt_wu_nj%C3%ABkk
+[wo.wikipedia.org](https://wo.wikipedia.org/wiki/X%C3%ABt_wu_nj%C3%ABkk)
 
 #### Learning Wolof ####
 
-https://jangwolof.com/
+[jangwolof.com](https://jangwolof.com/)
 
 ### Wolof only Twitter accounts ###
 
-https://twitter.com/SaabalN
+[SaabalN](https://twitter.com/SaabalN)
 
-https://twitter.com/WaxWolof
+[WaxWolof](https://twitter.com/WaxWolof)
 
 ## Wolof Audio Data ##
 
