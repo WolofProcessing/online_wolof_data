@@ -53,7 +53,7 @@ This repository curates online wolof resources
 
 ### Keyword spotting datasets ###
 
- [Zenodo African Languages (Wolof,Pulaar,Serere,Mandinka,Diola,Soninke) Dataset](https://zenodo.org/record/4661645#.YuaAPNJBxNg)
+ [Zenodo African Languages Dataset](https://zenodo.org/record/4661645#.YuaAPNJBxNg) (Wolof,Pulaar,Serere,Mandinka,Diola,Soninke)
  
  ### Asyncronous Speech Recogntion (ASR) datasets ###
  
