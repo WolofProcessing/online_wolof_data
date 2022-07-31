@@ -3,7 +3,7 @@ This repository curates online wolof resources
 
 ## Wolof Text Data ##
 
-### Wolof books ###
+### Wolof books (not exhaustive list) ###
 
 #### Literature ####
 
