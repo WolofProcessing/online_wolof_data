@@ -35,6 +35,10 @@ This repository curates online wolof resources
 
 [www.jw.org/wo/](https://www.jw.org/wo/) (Jeovah website in Wolof)
 
+#### Medical content ####
+
+[InfoVIHTal](http://gtt-vih.org/aprende/publicaciones/infovihtal/wolof) (Medical content in Wolof made in Spain)
+
 #### Wikipedia in Wolof ###
 
 [wo.wikipedia.org](https://wo.wikipedia.org/wiki/X%C3%ABt_wu_nj%C3%ABkk)
