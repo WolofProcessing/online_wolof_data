@@ -53,5 +53,5 @@ This repository curates online wolof resources
  
  ### Asyncronous Speech Recogntion (ASR) datasets ###
  
- [Baamtu wolof ASR Challenge Dataset](https://zindi.africa/competitions/ai4d-baamtu-datamation-automatic-speech-recognition-in-wolof/data)
+ [AI4D Baamtu wolof ASR Challenge Dataset](https://zindi.africa/competitions/ai4d-baamtu-datamation-automatic-speech-recognition-in-wolof/data)
 
