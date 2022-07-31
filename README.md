@@ -35,7 +35,7 @@ This repository curates online wolof resources
 
 [yoonunjub.org](https://yoonunjub.org/)
 
-[www.jw.org/wo/](https://www.jw.org/wo/) (Jeovah website in Wolof)
+[www.jw.org/wo/](https://www.jw.org/wo/) (Jeovah Witnesses website in Wolof)
 
 #### Medical content ####
 
