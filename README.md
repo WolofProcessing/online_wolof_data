@@ -47,6 +47,10 @@ This repository curates online wolof resources
 
 ## Wolof Audio Data ##
 
+### Learning Wolof ###
+
+[UCLA Wolof Audio-Video Course](http://aflang.humanities.ucla.edu/language-courses/wolof/)
+
 ### Keyword spotting datasets ###
 
  [Zenodo African Languages (Wolof,Pulaar,Serere,Mandinka,Diola,Soninke) Dataset](https://zenodo.org/record/4661645#.YuaAPNJBxNg)
