@@ -57,6 +57,10 @@ This repository curates online wolof resources
 
 ## Wolof Audio Data ##
 
+### News in Wolof ###
+
+[TFM Wolof News Youtube Playlist](https://www.youtube.com/watch?v=1UEpQhsIxE0&list=PLdGJr0E0g2bNsbRQZ_HyzuGvU1Mo1XcvK&ab_channel=TFM%28T%C3%A9l%C3%A9FutursMedias%29) (Senegal)
+
 ### Learning Wolof ###
 
 [UCLA Wolof Audio-Video Course](http://aflang.humanities.ucla.edu/language-courses/wolof/)
