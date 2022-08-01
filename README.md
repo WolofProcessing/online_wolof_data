@@ -61,7 +61,7 @@ This repository curates online wolof resources
 
 [TFM Wolof News Youtube Playlist](https://www.youtube.com/watch?v=1UEpQhsIxE0&list=PLdGJr0E0g2bNsbRQZ_HyzuGvU1Mo1XcvK&ab_channel=TFM%28T%C3%A9l%C3%A9FutursMedias%29) (Senegal)
 
-[Elmourabitoune Multilingual (Wolof, Puular, Arabic) News TV](https://www.youtube.com/c/Elmourabitoune)
+[Elmourabitoune Multilingual (Wolof, Pulaar, Arabic) News TV](https://www.youtube.com/c/Elmourabitoune)
 
 ### Learning Wolof ###
 
