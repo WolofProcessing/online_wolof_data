@@ -7,6 +7,7 @@ This repository curates online wolof resources
 | :-----------:|
 | [`OPUS`](https://opus.nlpl.eu/) |
 | [`FLORES-200`](https://github.com/facebookresearch/flores/blob/main/flores200/README.md) |
+| [`Microsoft NTREX`](https://github.com/MicrosoftTranslator/NTREX) |
 | [`LOREILEI` (payant)](https://catalog.ldc.upenn.edu/LDC2022T03) |
 | [`MAFAND-MT`](https://github.com/masakhane-io/lafand-mt/) |
 | [`Masakhane Wolof-NER`](https://github.com/masakhane-io/masakhane-ner) |
