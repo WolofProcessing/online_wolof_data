@@ -12,6 +12,7 @@ This repository curates online wolof resources
 | [`MAFAND-MT`](https://github.com/masakhane-io/lafand-mt/) |
 | [`Masakhane Wolof-NER`](https://github.com/masakhane-io/masakhane-ner) |
 | [`Masakhane Part-of-speech tagging`](https://github.com/masakhane-io/lacuna_pos_ner) |
+| [`Masakhane AfriQA: Question Answering`](https://huggingface.co/datasets/masakhane/afriqa) |
 | [`WOLOF IA Sentiment Analysis`](https://github.com/Dar-rius/Wolof_IA) |
 
 
