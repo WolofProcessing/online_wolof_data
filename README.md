@@ -3,17 +3,13 @@ This repository curates online wolof resources
 
 ## Text Data ##
 
-| `Existing datasets` |
-| :-----------:|
-| [`OPUS`](https://opus.nlpl.eu/) |
-| [`FLORES-200`](https://github.com/facebookresearch/flores/blob/main/flores200/README.md) |
-| [`Microsoft NTREX`](https://github.com/MicrosoftTranslator/NTREX) |
-| [`LOREILEI` (payant)](https://catalog.ldc.upenn.edu/LDC2022T03) |
-| [`MAFAND-MT`](https://github.com/masakhane-io/lafand-mt/) |
-| [`Masakhane Wolof-NER`](https://github.com/masakhane-io/masakhane-ner) |
-| [`Masakhane Part-of-speech tagging`](https://github.com/masakhane-io/lacuna_pos_ner) |
-| [`Masakhane AfriQA: Question Answering`](https://huggingface.co/datasets/masakhane/afriqa) |
-| [`WOLOF IA Sentiment Analysis`](https://github.com/Dar-rius/Wolof_IA) |
+| `Machine Translation` | `Named Entity Recognition` | `Part-of-speech tagging` | `Question Answering` | `Sentiment Analysis` | 
+| :---------------------| :-----| :-----|:------| :--------------------|
+| [`OPUS`](https://opus.nlpl.eu/) | [`MasakhaNER`](https://github.com/masakhane-io/masakhane-ner) | [`MasakhaPOS`](https://github.com/masakhane-io/lacuna_pos_ner) | [`Masakhane AfriQA`](https://huggingface.co/datasets/masakhane/afriqa) | [`WOLOF IA Sentiment Analysis`](https://github.com/Dar-rius/Wolof_IA) |
+| [`FLORES-200`](https://github.com/facebookresearch/flores/blob/main/flores200/README.md) |  | | | |
+| [`Microsoft NTREX`](https://github.com/MicrosoftTranslator/NTREX) |  | | | |
+| [`LOREILEI` (payant)](https://catalog.ldc.upenn.edu/LDC2022T03) |  | | | |
+| [`MAFAND-MT`](https://github.com/masakhane-io/lafand-mt/) |  | | | |
 
 
 | `Wolof books (non exhaustive list)` |
@@ -44,7 +40,6 @@ This repository curates online wolof resources
 | [AI4D Baamtu URBAN Dataset](https://zindi.africa/competitions/ai4d-baamtu-datamation-automatic-speech-recognition-in-wolof/data)| [AI4D-BAAMTU Dataset](https://zenodo.org/record/4498861#.YXU2A3X7R-M) |   [Keyword spotting dataset](https://zenodo.org/record/7561858) (Wolof, Pulaar, Serere, Mandinka, Diola, Soninke) |
 [ALFFA_PUBLIC ](https://github.com/getalp/ALFFA_PUBLIC/tree/master/ASR/WOLOF) |   |   |
 | [Waxal Multilingual ](https://github.com/Waxal-Multilingual/speech-data) |  |   |
-|  | | |
 
 
 | `News` |
