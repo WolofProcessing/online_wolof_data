@@ -39,13 +39,12 @@ This repository curates online wolof resources
 
 ## Audio Data ##
 
-| `Existing datasets` |
-| :-----------:|
-| [Keyword spotting dataset](https://zenodo.org/record/4661645#.YuaAPNJBxNg) (Wolof, Pulaar, Serere, Mandinka, Diola, Soninke) |
-| [ASR - AI4D Baamtu URBAN Dataset](https://zindi.africa/competitions/ai4d-baamtu-datamation-automatic-speech-recognition-in-wolof/data)|
-| [ASR - ALFFA_PUBLIC ](https://github.com/getalp/ALFFA_PUBLIC/tree/master/ASR/WOLOF) |
-| [ASR - Waxal Multilingual ](https://github.com/Waxal-Multilingual/speech-data) |
-| [TTS - Dataset](https://zenodo.org/record/4498861#.YXU2A3X7R-M) |
+| `Automatic Speach Recognition (ASR)` | `Text To Speech (TTS)`  | `Keyword Spotting`  |
+| :------------------------------------| :------------------------| :-------------------|
+| [AI4D Baamtu URBAN Dataset](https://zindi.africa/competitions/ai4d-baamtu-datamation-automatic-speech-recognition-in-wolof/data)| [AI4D-BAAMTU Dataset](https://zenodo.org/record/4498861#.YXU2A3X7R-M) |   [Keyword spotting dataset](https://zenodo.org/record/4661645#.YuaAPNJBxNg) (Wolof, Pulaar, Serere, Mandinka, Diola, Soninke) |
+[ALFFA_PUBLIC ](https://github.com/getalp/ALFFA_PUBLIC/tree/master/ASR/WOLOF) |   |   |
+| [Waxal Multilingual ](https://github.com/Waxal-Multilingual/speech-data) |  |   |
+|  | | |
 
 
 | `News` |
