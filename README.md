@@ -3,9 +3,9 @@ This repository curates online wolof resources
 
 ## Text Data ##
 
-| `Machine Translation` | `Named Entity Recognition` | `Part-of-speech tagging` | `Question Answering` | `Sentiment Analysis` | 
-| :---------------------| :-----| :-----|:------| :--------------------|
-| [OPUS](https://opus.nlpl.eu/) | [MasakhaNER](https://github.com/masakhane-io/masakhane-ner) | [MasakhaPOS](https://github.com/masakhane-io/lacuna_pos_ner) | [AfriQA](https://huggingface.co/datasets/masakhane/afriqa) | [WOLOF IA](https://github.com/Dar-rius/Wolof_IA) |
+| `Machine Translation` | `Named Entity Recognition` | `Part-of-speech tagging` | `Question Answering` |
+| :---------------------| :--------------------------| :------------------------|:---------------------| 
+| [OPUS](https://opus.nlpl.eu/) | [MasakhaNER](https://github.com/masakhane-io/masakhane-ner) | [MasakhaPOS](https://github.com/masakhane-io/lacuna_pos_ner) | [AfriQA](https://huggingface.co/datasets/masakhane/afriqa) |
 | [FLORES-200](https://github.com/facebookresearch/flores/blob/main/flores200/README.md) |  | [UD_Wolof-WTB](https://github.com/UniversalDependencies/UD_Wolof-WTB) | | |
 | [Microsoft NTREX](https://github.com/MicrosoftTranslator/NTREX) |  | | | |
 | [LOREILEI (payant)](https://catalog.ldc.upenn.edu/LDC2022T03) |  | | | |
