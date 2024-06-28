@@ -11,6 +11,9 @@ This repository curates online wolof resources
 | [LOREILEI (payant)](https://catalog.ldc.upenn.edu/LDC2022T03) |  | | | |
 | [MAFAND-MT](https://github.com/masakhane-io/lafand-mt/) |  | | | |
 
+| `Parallel Corpora` |
+| :------------------|
+| [Wolof-Arabic](https://github.com/geekdiop/A-Wolof-Arabic-Parallel-Corpus) |
 
 | `Wolof books (non exhaustive list)` |
 | :-----------|
