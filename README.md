@@ -3,13 +3,14 @@ This repository curates online wolof resources
 
 ## Text Data ##
 
-| `Machine Translation` | `Named Entity Recognition` | `Part-of-speech tagging` | `Question Answering` |
+| `Machine Translation` | `Named Entity Recognition` | `Part-of-speech tagging` | `Question Answer / Instruct` |
 | :---------------------| :--------------------------| :------------------------|:---------------------| 
 | [OPUS](https://opus.nlpl.eu/) | [MasakhaNER](https://github.com/masakhane-io/masakhane-ner) | [MasakhaPOS](https://github.com/masakhane-io/lacuna_pos_ner) | [AfriQA](https://huggingface.co/datasets/masakhane/afriqa) |
-| [FLORES-200](https://github.com/facebookresearch/flores/blob/main/flores200/README.md) |  | [UD_Wolof-WTB](https://github.com/UniversalDependencies/UD_Wolof-WTB) | | |
+| [FLORES-200](https://github.com/facebookresearch/flores/blob/main/flores200/README.md) |  | [UD_Wolof-WTB](https://github.com/UniversalDependencies/UD_Wolof-WTB) | [IrokoBench](https://huggingface.co/collections/masakhane/irokobench-665a21b6d4714ed3f81af3b1) |
 | [Microsoft NTREX](https://github.com/MicrosoftTranslator/NTREX) |  | | | |
 | [LOREILEI (payant)](https://catalog.ldc.upenn.edu/LDC2022T03) |  | | | |
 | [MAFAND-MT](https://github.com/masakhane-io/lafand-mt/) |  | | | |
+| [Google-SMOL](https://huggingface.co/datasets/google/smol) |  | | | |
 
 
 | `Wolof books (non exhaustive list)` |
@@ -37,7 +38,7 @@ This repository curates online wolof resources
 
 | `Automatic Speach Recognition (ASR)` | `Text To Speech (TTS)`  | `Keyword Spotting`  |
 | :------------------------------------| :------------------------| :-------------------|
-| [AI4D URBAN Dataset (Baamtu)](https://zindi.africa/competitions/ai4d-baamtu-datamation-automatic-speech-recognition-in-wolof/data)| [AI4D-BAAMTU Dataset](https://zenodo.org/record/4498861#.YXU2A3X7R-M) |   [Keyword spotting dataset](https://zenodo.org/record/7561858) (Wolof, Pulaar, Serere, Mandinka, Diola, Soninke) |
+| [AI4D URBAN Dataset (Baamtu)](https://zindi.africa/competitions/ai4d-baamtu-datamation-automatic-speech-recognition-in-wolof/data)| [AI4D-BAAMTU Dataset](https://zenodo.org/record/4498861#.YXU2A3X7R-M) |   [Keyword spotting dataset](https://zenodo.org/record/7561858) |
 [ALFFA_PUBLIC ](https://github.com/getalp/ALFFA_PUBLIC/tree/master/ASR/WOLOF) |   |   |
 | [Waxal Multilingual](https://github.com/Waxal-Multilingual/speech-data) |  |   |
 | [Kallaama (Jokalante, Orange, EPT)](https://github.com/gauthelo/kallaama-speech-dataset) |  |   |
