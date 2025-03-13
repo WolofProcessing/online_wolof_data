@@ -8,9 +8,10 @@ This repository curates online wolof resources
 | [OPUS](https://opus.nlpl.eu/) | [MasakhaNER](https://github.com/masakhane-io/masakhane-ner) | [MasakhaPOS](https://github.com/masakhane-io/lacuna_pos_ner) | [AfriQA](https://huggingface.co/datasets/masakhane/afriqa) |
 | [FLORES-200](https://github.com/facebookresearch/flores/blob/main/flores200/README.md) |  | [UD_Wolof-WTB](https://github.com/UniversalDependencies/UD_Wolof-WTB) | [Aya (Includes AfriQA)](https://huggingface.co/datasets/CohereForAI/aya_collection_language_split/viewer/wolof) |
 | [Microsoft NTREX](https://github.com/MicrosoftTranslator/NTREX) |  | | [IrokoBench](https://huggingface.co/collections/masakhane/irokobench-665a21b6d4714ed3f81af3b1) |
-| [LOREILEI (payant)](https://catalog.ldc.upenn.edu/LDC2022T03) |  | | | |
+| [LOREILEI (payant)](https://catalog.ldc.upenn.edu/LDC2022T03) |  | | [Masakhane NLU](https://github.com/masakhane-io/masakhane-nlu/blob/main/InjongoIntent/wol/train.jsonl)|
 | [MAFAND-MT](https://github.com/masakhane-io/lafand-mt/) |  | | | |
 | [Google-SMOL](https://huggingface.co/datasets/google/smol) |  | | | |
+
 
 
 | `Wolof books (non exhaustive list)` |
