@@ -13,6 +13,9 @@ This repository curates online wolof resources
 | [Google-SMOL](https://huggingface.co/datasets/google/smol) |  | | |
 
 
+| `Parallel Corpora` |
+| :------------------|
+| [Wolof-Arabic](https://github.com/geekdiop/A-Wolof-Arabic-Parallel-Corpus) |
 
 | `Wolof books (non exhaustive list)` |
 | :-----------|
