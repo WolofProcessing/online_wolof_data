@@ -11,6 +11,7 @@ This repository curates online wolof resources
 | [LOREILEI (payant)](https://catalog.ldc.upenn.edu/LDC2022T03) |  | | |
 | [MAFAND-MT](https://github.com/masakhane-io/lafand-mt/) |  | | |
 | [Google-SMOL](https://huggingface.co/datasets/google/smol) |  | | |
+| [MADLAD-400](https://github.com/google-research/google-research/tree/master/madlad_400) |  | | |
 
 
 
