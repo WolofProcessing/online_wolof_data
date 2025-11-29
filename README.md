@@ -7,7 +7,7 @@ This repository curates online wolof resources
 | :---------------------| :--------------------------| :------------------------|:---------------------|
 | [OPUS](https://opus.nlpl.eu/) | [MasakhaNER](https://github.com/masakhane-io/masakhane-ner) | [AfriQA](https://huggingface.co/datasets/masakhane/afriqa) | [Masakhane-NLU (Iroko+NLU)](https://github.com/masakhane-io/masakhane-nlu) | |
 | [FLORES-200](https://github.com/facebookresearch/flores/blob/main/flores200/README.md) | [MasakhaPOS](https://github.com/masakhane-io/lacuna_pos_ner) | [Aya (Includes AfriQA)](https://huggingface.co/datasets/CohereForAI/aya_collection_language_split/viewer/wolof) | [Hate Speech Detection](https://zenodo.org/records/14497425) |
-| [Microsoft NTREX](https://github.com/MicrosoftTranslator/NTREX) | [UD_Wolof-WTB](https://github.com/UniversalDependencies/UD_Wolof-WTB) | | | |
+| [Microsoft NTREX](https://github.com/MicrosoftTranslator/NTREX) | [UD_Wolof-WTB](https://github.com/UniversalDependencies/UD_Wolof-WTB) | | [WolBanking77](https://www.kaggle.com/datasets/abdoukarimkandji/wolbanking77)|
 | [LOREILEI (payant)](https://catalog.ldc.upenn.edu/LDC2022T03) |  | | |
 | [MAFAND-MT](https://github.com/masakhane-io/lafand-mt/) |  | | |
 | [Google-SMOL](https://huggingface.co/datasets/google/smol) |  | | |
@@ -45,6 +45,7 @@ This repository curates online wolof resources
 | [Waxal Multilingual](https://github.com/Waxal-Multilingual/speech-data) |  |   |
 | [Kallaama (Jokalante, Orange, EPT)](https://github.com/gauthelo/kallaama-speech-dataset) |  |   |
 | [Google Fleurs](https://huggingface.co/datasets/google/fleurs/viewer/wo_sn) |  |   |
+| [WolBanking77](https://www.kaggle.com/datasets/abdoukarimkandji/wolbanking77) |  |   |
 
 
 
