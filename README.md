@@ -1,18 +1,18 @@
-# Wolof Data #
-This repository curates online wolof resources 
+# Senegalese Language Datasets 🇸🇳
+This repository tracks and centralizes all `openly accessible datasets` as well as potential `data sources` on Senegalese languages.
+The main languages are `Wolof`, `Pulaar` (Fula), `Serer`, `Diola`, `Soninke`, and `Mandinka`. For more information on NLP work done in these languages, see [this repository](https://github.com/DerXter/State-of-NLP-Research-in-Senegal).
 
 ## Text Data ##
 
-| `Machine Translation` | `Token Classification` | `Question Answer / Instruct` | `Sentence Classification` |
+| `Machine Translation` | `Token Classification` | `Question Answering / Instruct` | `Sentence Classification` |
 | :---------------------| :--------------------------| :------------------------|:---------------------|
 | [OPUS](https://opus.nlpl.eu/) | [MasakhaNER](https://github.com/masakhane-io/masakhane-ner) | [AfriQA](https://huggingface.co/datasets/masakhane/afriqa) | [Masakhane-NLU (Iroko+NLU)](https://github.com/masakhane-io/masakhane-nlu) | |
 | [FLORES-200](https://github.com/facebookresearch/flores/blob/main/flores200/README.md) | [MasakhaPOS](https://github.com/masakhane-io/lacuna_pos_ner) | [Aya (Includes AfriQA)](https://huggingface.co/datasets/CohereForAI/aya_collection_language_split/viewer/wolof) | [Hate Speech Detection](https://zenodo.org/records/14497425) |
-| [Microsoft NTREX](https://github.com/MicrosoftTranslator/NTREX) | [UD_Wolof-WTB](https://github.com/UniversalDependencies/UD_Wolof-WTB) | | [WolBanking77](https://www.kaggle.com/datasets/abdoukarimkandji/wolbanking77)|
-| [LOREILEI (payant)](https://catalog.ldc.upenn.edu/LDC2022T03) |  | | |
+| [Microsoft NTREX](https://github.com/MicrosoftTranslator/NTREX) | [UD_Wolof-WTB](https://github.com/UniversalDependencies/UD_Wolof-WTB) | [AfriWOZ 1.0](https://github.com/masakhane-io/chatbots-african-languages/) | [WolBanking77](https://www.kaggle.com/datasets/abdoukarimkandji/wolbanking77)|
+| [LOREILEI (payant)](https://catalog.ldc.upenn.edu/LDC2022T03) |  | [Belebele](https://github.com/facebookresearch/belebele) | |
 | [MAFAND-MT](https://github.com/masakhane-io/lafand-mt/) |  | | |
 | [Google-SMOL](https://huggingface.co/datasets/google/smol) |  | | |
 | [MADLAD-400](https://github.com/google-research/google-research/tree/master/madlad_400) |  | | |
-
 
 
 | `Wolof books (non exhaustive list)` |
@@ -23,7 +23,15 @@ This repository curates online wolof resources
 | Ndoomu Buur Si (Le petit prince), _Antoine de Saint Exupery_|
 | Bàmmeelu Kocc Barma, _Buubakar Bóris Jóob_|
 | Puukare, _Ceerno Séydu Sàll_|
-| Doxandéem, _Ibraayima Saaxo Caam_)|
+| Doxandéem, _Ibraayima Saaxo Caam_|
+
+| `Ajami and Arabic` |
+| :-----------|
+| [AHDQ: (Arabic Handwriting Dataset from Quran)](https://www.kaggle.com/datasets/abdoukhadrembacke/ahdq-arabic-handwriting-dataset-from-quran)   |
+| [Ajami X Translit](https://huggingface.co/datasets/TutlaytAI/AjamiXTranslit) |
+| [Wolof Ajami OCR augmented](https://huggingface.co/datasets/TutlaytAI/Wolof_Ajami_OCR_augmented) |
+| [A Wolof-Arabic Parallel Corpus](https://github.com/geekdiop/A-Wolof-Arabic-Parallel-Corpus) |
+
 
 
 ### `Wolof web sites`
@@ -46,7 +54,6 @@ This repository curates online wolof resources
 | [Kallaama (Jokalante, Orange, EPT)](https://github.com/gauthelo/kallaama-speech-dataset) |  |   |
 | [Google Fleurs](https://huggingface.co/datasets/google/fleurs/viewer/wo_sn) |  |   |
 | [WolBanking77](https://www.kaggle.com/datasets/abdoukarimkandji/wolbanking77) |  |   |
-
 
 
 | `News` |
