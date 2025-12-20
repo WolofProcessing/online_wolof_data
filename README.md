@@ -4,13 +4,13 @@ The main languages are `Wolof`, `Pulaar` (Fula), `Serer`, `Diola`, `Soninke`, an
 
 ## Text Data ##
 
-| `Machine Translation` | `Token Classification` | `Question Answering / Instruct` | `Sentence Classification` |
+| `Machine Translation` | `Token Classification` | `Question Answering / Instruct / Pretraining` | `Sentence Classification` |
 | :---------------------| :--------------------------| :------------------------|:---------------------|
 | [OPUS](https://opus.nlpl.eu/) | [MasakhaNER](https://github.com/masakhane-io/masakhane-ner) | [AfriQA](https://huggingface.co/datasets/masakhane/afriqa) | [Masakhane-NLU (Iroko+NLU)](https://github.com/masakhane-io/masakhane-nlu) | |
 | [FLORES-200](https://github.com/facebookresearch/flores/blob/main/flores200/README.md) | [MasakhaPOS](https://github.com/masakhane-io/lacuna_pos_ner) | [Aya (Includes AfriQA)](https://huggingface.co/datasets/CohereForAI/aya_collection_language_split/viewer/wolof) | [Hate Speech Detection](https://zenodo.org/records/14497425) |
 | [Microsoft NTREX](https://github.com/MicrosoftTranslator/NTREX) | [UD_Wolof-WTB](https://github.com/UniversalDependencies/UD_Wolof-WTB) | [AfriWOZ 1.0](https://github.com/masakhane-io/chatbots-african-languages/) | [WolBanking77](https://www.kaggle.com/datasets/abdoukarimkandji/wolbanking77)|
 | [LOREILEI (payant)](https://catalog.ldc.upenn.edu/LDC2022T03) |  | [Belebele](https://github.com/facebookresearch/belebele) | |
-| [MAFAND-MT](https://github.com/masakhane-io/lafand-mt/) |  | | |
+| [MAFAND-MT](https://github.com/masakhane-io/lafand-mt/) |  | [FineWeb 2](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2/viewer/wol_Latn) | |
 | [Google-SMOL](https://huggingface.co/datasets/google/smol) |  | | |
 | [MADLAD-400](https://github.com/google-research/google-research/tree/master/madlad_400) |  | | |
 
