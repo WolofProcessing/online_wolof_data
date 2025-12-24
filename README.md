@@ -1,17 +1,16 @@
-# Senegalese Language Datasets 🇸🇳
-This repository tracks and centralizes all `openly accessible datasets` as well as potential `data sources` on Senegalese languages.
-The main languages are `Wolof`, `Pulaar` (Fula), `Sereer`, `Joola`, `Soninke`, and `Mandinka`. For more information on NLP work done in these languages, see [this repository](https://github.com/DerXter/State-of-NLP-Research-in-Senegal).
+# Online Wolof Data
+This repository tracks and centralizes all `openly accessible datasets` as well as potential `data sources` on the `Wolof` language. For more information on NLP work done in the remaining national languages, see [this repository](https://github.com/DerXter/State-of-NLP-Research-in-Senegal).
 
 ## Text Data ##
 
-| `Machine Translation` | `Token Classification` | `Question Answering / Instruct / Pretraining` | `Sentence Classification` |
+| `Machine Translation` | `Token Classification` | `Question Answering / Instruct / Pre-training` | `Sentence Classification` |
 | :---------------------| :--------------------------| :------------------------|:---------------------|
 | [OPUS](https://opus.nlpl.eu/) | [MasakhaNER](https://github.com/masakhane-io/masakhane-ner) | [AfriQA](https://huggingface.co/datasets/masakhane/afriqa) | [Masakhane-NLU (Iroko+NLU)](https://github.com/masakhane-io/masakhane-nlu) | |
 | [FLORES-200](https://github.com/facebookresearch/flores/blob/main/flores200/README.md) | [MasakhaPOS](https://github.com/masakhane-io/lacuna_pos_ner) | [Aya (Includes AfriQA)](https://huggingface.co/datasets/CohereForAI/aya_collection_language_split/viewer/wolof) | [Hate Speech Detection](https://zenodo.org/records/14497425) |
 | [Microsoft NTREX](https://github.com/MicrosoftTranslator/NTREX) | [UD_Wolof-WTB](https://github.com/UniversalDependencies/UD_Wolof-WTB) | [AfriWOZ 1.0](https://github.com/masakhane-io/chatbots-african-languages/) | [WolBanking77](https://www.kaggle.com/datasets/abdoukarimkandji/wolbanking77)|
-| [LOREILEI (payant)](https://catalog.ldc.upenn.edu/LDC2022T03) |  | [Belebele](https://github.com/facebookresearch/belebele) | |
+| [LORELEI (payant)](https://catalog.ldc.upenn.edu/LDC2022T03) |  | [Belebele](https://github.com/facebookresearch/belebele) | |
 | [MAFAND-MT](https://github.com/masakhane-io/lafand-mt/) |  | [FineWeb 2](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2/viewer/wol_Latn) | |
-| [Google-SMOL](https://huggingface.co/datasets/google/smol) |  | | |
+| [Google-SMOL](https://huggingface.co/datasets/google/smol) |  | [Wolof Dataset for Open LLM Fine-Tuning](https://github.com/dofbi/jolof/) | |
 | [MADLAD-400](https://github.com/google-research/google-research/tree/master/madlad_400) |  | | |
 
 
