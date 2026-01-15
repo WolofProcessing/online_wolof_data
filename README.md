@@ -12,6 +12,7 @@ This repository tracks and centralizes all `openly accessible datasets` as well 
 | [MAFAND-MT](https://github.com/masakhane-io/lafand-mt/) |  | [FineWeb 2](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2/viewer/wol_Latn) | |
 | [Google-SMOL](https://huggingface.co/datasets/google/smol) |  | [Wolof Dataset for Open LLM Fine-Tuning](https://github.com/dofbi/jolof/) | |
 | [MADLAD-400](https://github.com/google-research/google-research/tree/master/madlad_400) |  | | |
+| [FineTranslations](https://huggingface.co/datasets/HuggingFaceFW/finetranslations/viewer/wol_Latn) |  | | |
 
 
 | `Wolof books (non exhaustive list)` |
