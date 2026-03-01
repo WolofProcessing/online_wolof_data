@@ -54,6 +54,7 @@ This repository tracks and centralizes all `openly accessible datasets` as well 
 | [Kallaama (Jokalante, Orange, EPT)](https://github.com/gauthelo/kallaama-speech-dataset) |  |   |
 | [Google Fleurs](https://huggingface.co/datasets/google/fleurs/viewer/wo_sn) |  |   |
 | [WolBanking77](https://www.kaggle.com/datasets/abdoukarimkandji/wolbanking77) |  |   |
+| [Universal Declaration of Human Rights (UDHR)](https://udhr.audio/) |  |   |
 
 
 | `News` |
