@@ -49,8 +49,8 @@ This repository tracks and centralizes all `openly accessible datasets` as well 
 | `Automatic Speach Recognition (ASR)` | `Text To Speech (TTS)`  | `Keyword Spotting`  |
 | :------------------------------------| :------------------------| :-------------------|
 | [AI4D URBAN Dataset (Baamtu)](https://zindi.africa/competitions/ai4d-baamtu-datamation-automatic-speech-recognition-in-wolof/data)| [AI4D-BAAMTU Dataset](https://zenodo.org/record/4498861#.YXU2A3X7R-M) |   [Keyword spotting dataset](https://zenodo.org/record/7561858) |
-[ALFFA_PUBLIC ](https://github.com/getalp/ALFFA_PUBLIC/tree/master/ASR/WOLOF) |   |   |
-| [Waxal Multilingual](https://github.com/Waxal-Multilingual/speech-data) |  |   |
+[ALFFA_PUBLIC ](https://github.com/getalp/ALFFA_PUBLIC/tree/master/ASR/WOLOF) | [GalsenAI Wolof TTS](https://huggingface.co/datasets/galsenai/anta_women_tts)  |   |
+| [Waxal Multilingual](https://github.com/Waxal-Multilingual/speech-data) | [Google Waxal NLP](https://huggingface.co/datasets/google/WaxalNLP/viewer/wol_tts) |   |
 | [Kallaama (Jokalante, Orange, EPT)](https://github.com/gauthelo/kallaama-speech-dataset) |  |   |
 | [Google Fleurs](https://huggingface.co/datasets/google/fleurs/viewer/wo_sn) |  |   |
 | [WolBanking77](https://www.kaggle.com/datasets/abdoukarimkandji/wolbanking77) |  |   |
