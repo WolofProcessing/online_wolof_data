@@ -3,13 +3,13 @@ This repository tracks and centralizes all `openly accessible datasets` as well 
 
 ## Text Data ##
 
-| `Machine Translation` | `Token Classification` | `Question Answering / Instruct / Pre-training` | `Sentence Classification` |
+| `Machine Translation` | `Token Classification` | `Question Answering / Instruct / Pre-training` | `Text Classification` |
 | :---------------------| :--------------------------| :------------------------|:---------------------|
 | [OPUS](https://opus.nlpl.eu/) | [MasakhaNER](https://github.com/masakhane-io/masakhane-ner) | [AfriQA](https://huggingface.co/datasets/masakhane/afriqa) | [Masakhane-NLU (Iroko+NLU)](https://github.com/masakhane-io/masakhane-nlu) | |
 | [FLORES-200](https://github.com/facebookresearch/flores/blob/main/flores200/README.md) | [MasakhaPOS](https://github.com/masakhane-io/lacuna_pos_ner) | [Aya (Includes AfriQA)](https://huggingface.co/datasets/CohereForAI/aya_collection_language_split/viewer/wolof) | [Hate Speech Detection](https://zenodo.org/records/14497425) |
 | [Microsoft NTREX](https://github.com/MicrosoftTranslator/NTREX) | [UD_Wolof-WTB](https://github.com/UniversalDependencies/UD_Wolof-WTB) | [AfriWOZ 1.0](https://github.com/masakhane-io/chatbots-african-languages/) | [WolBanking77](https://www.kaggle.com/datasets/abdoukarimkandji/wolbanking77)|
 | [LORELEI (payant)](https://catalog.ldc.upenn.edu/LDC2022T03) |  | [Belebele](https://github.com/facebookresearch/belebele) | [CommonLingua LID](https://huggingface.co/datasets/PleIAs/CommonLingua-Train) |
-| [MAFAND-MT](https://github.com/masakhane-io/lafand-mt/) |  | [FineWeb 2](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2/viewer/wol_Latn) | |
+| [MAFAND-MT](https://github.com/masakhane-io/lafand-mt/) |  | [FineWeb 2](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2/viewer/wol_Latn) | [AfrIFact](https://huggingface.co/datasets/masakhane/AfrIFact)|
 | [Google-SMOL](https://huggingface.co/datasets/google/smol) |  | [Wolof Dataset for Open LLM Fine-Tuning](https://github.com/dofbi/jolof/) | |
 | [MADLAD-400](https://github.com/google-research/google-research/tree/master/madlad_400) |  | | |
 | [FineTranslations](https://huggingface.co/datasets/HuggingFaceFW/finetranslations/viewer/wol_Latn) |  | | |
