@@ -27,10 +27,10 @@ This repository tracks and centralizes all `openly accessible datasets` as well 
 
 | `Ajami and Arabic` |
 | :-----------|
+| [MudawanSn: A Gold-Standard Wolof--Arabic Parallel Corpus for Machine Translation](https://huggingface.co/datasets/mbaye930/wolof-arabic-parallel-corpus) |
 | [AHDQ: (Arabic Handwriting Dataset from Quran)](https://www.kaggle.com/datasets/abdoukhadrembacke/ahdq-arabic-handwriting-dataset-from-quran)   |
 | [Ajami X Translit](https://huggingface.co/datasets/TutlaytAI/AjamiXTranslit) |
 | [Wolof Ajami OCR augmented](https://huggingface.co/datasets/TutlaytAI/Wolof_Ajami_OCR_augmented) |
-| [A Wolof-Arabic Parallel Corpus](https://github.com/geekdiop/A-Wolof-Arabic-Parallel-Corpus) |
 
 
 
